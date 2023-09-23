@@ -144,3 +144,9 @@
     width: 200px;
   }
 }
+
+@media (max-width: 620px){
+  .floating-contact-form .contact-icon{
+    bottom: -29px;
+  }
+}
