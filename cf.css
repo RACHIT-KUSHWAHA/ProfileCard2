@@ -34,6 +34,7 @@
 
 .floating-contact-form .form-container.active {
   transform: rotateZ(0deg);
+  backdrop-filter: blur(12.5px);
   opacity: 1;
   pointer-events: auto;
 }
