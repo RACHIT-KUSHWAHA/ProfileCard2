@@ -120,7 +120,7 @@ body{
     backdrop-filter: blur(12.5px);
     border-radius: 10px;
     border: 1px solid #00000025;
-    transition: .3s;
+    transition: .4s;
 }
 
 .sidebar a {
