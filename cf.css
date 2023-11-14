@@ -1,5 +1,7 @@
 .floating-contact-form .contact-icon {
-  position: fixed;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
   cursor: pointer;
   padding: 16px;
 }
